@@ -5,12 +5,12 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.desktlm.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
     <name>ТЕСТ. ServiceDeskTLM</name>
 
     <description>
-        ServiceDesk ТверьЛифтМаш
+        ServiceDeskTLM
     </description>
 
     <author>Tadapp</author>
