@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.desktlm.app"
         versionCode = "10"
-        version     = "1.7.0">
+        version     = "1.8.0">
 
     <name>ServiceDeskTLM</name>
 
