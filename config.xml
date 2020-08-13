@@ -3,9 +3,9 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android" 
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
-        id          = "ratnikovvladimir1989@gmail.com"
+        id          = "ru.desktlm.app"
         versionCode = "10"
-        version     = "1.6.0">
+        version     = "1.7.0">
 
     <name>ServiceDeskTLM</name>
 
