@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ratnikovvladimir1989@gmail.com"
         versionCode = "10"
-        version     = "1.5.0">
+        version     = "1.6.0">
 
     <name>ServiceDeskTLM</name>
 
